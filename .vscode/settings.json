@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "**/venv": true,
+        "**/__pycache__": true
+    },
+    "python.pythonPath": "c:\\ACTIVESOFT\\python_devtest-master\\myvenv\\Scripts\\python.exe"
+}
